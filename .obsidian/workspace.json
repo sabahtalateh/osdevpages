@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2002c164fdfb7ae3",
+        "id": "455d8970e944c39e",
         "type": "tabs",
         "children": [
           {
-            "id": "857ad8a27bae9d83",
+            "id": "46c154768b7e7150",
             "type": "leaf",
             "state": {
               "type": "html-view",
@@ -83,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph2.html",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph2.html",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "graph2.html"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,10 +140,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "857ad8a27bae9d83",
+  "active": "46c154768b7e7150",
   "lastOpenFiles": [
-    "graph.md",
     "graph2.html",
+    "graph.md",
     "index.md",
     "index.html"
   ]

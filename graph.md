@@ -1,35 +1,31 @@
----
-title: markmap
-markmap:
-  colorFreezeLevel: 2
-  embedAssets: true
-  maxWidth: 300
----
+<!DOCTYPE html>
+<html lang="en">
 
-<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-<script src="https://cdn.jsdelivr.net/npm/markmap-view"></script>
+<head>
+    <title>Markmap</title>
+    <style>
+        .markmap {
+            position: relative;
+        }
+        .markmap>svg {
+            width: 100%;
+            height: 300px;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@latest"></script>
+</head>
 
-## Links
+<body>
+    <div class="markmap">
+        <script type="text/template">
+          - markmap
+            - autoloader
+            - transformer
+            - view
+            - 2
+            - 3
+        </script>
+    </div>
+</body>
 
-- [Website](https://markmap.js.org/)
-- [GitHub](https://github.com/gera2ld/markmap)
-
-<svg id="markmap" style="width: 800px; height: 800px"></svg>
-
-<script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.17"></script>
-<!-- <script src="https://cdn.jsdelivr.net/npm/markmap-render@0.17.0/dist/index.min.js"></script> -->
-<script>
-  const { Transformer } = window.markmap;
-  const {}
-
-  <!-- // 1. transform Markdown
-  const { root, features } = transformer.transform(markdown);
-
-  // 2. get assets
-  // either get assets required by used features
-  const assets = transformer.getUsedAssets(features);
-
-  // or get all possible assets that could be used later
-  const assets = transformer.getAssets(); -->
-
-</script>
+</html>
