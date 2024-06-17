@@ -16,7 +16,18 @@ markmap:
 
 <svg id="markmap" style="width: 800px; height: 800px"></svg>
 
+<script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.15"></script>
 <script>
-  const { markmap } = window;
-  const { Markmap, loadCSS, loadJS } = markmap;
+  const { Transformer } = window.markmap;
+
+  <!-- // 1. transform Markdown
+  const { root, features } = transformer.transform(markdown);
+
+  // 2. get assets
+  // either get assets required by used features
+  const assets = transformer.getUsedAssets(features);
+
+  // or get all possible assets that could be used later
+  const assets = transformer.getAssets(); -->
+
 </script>
