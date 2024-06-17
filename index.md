@@ -22,8 +22,6 @@
 ## Links
 [graph](./graph)
 
-{% include_relative inc.html %}
-
 {% capture inc %}{% include_relative inc.md %}{% endcapture %}
 {{ inc | markdownify }}
 
