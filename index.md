@@ -24,3 +24,6 @@
 
 {% include_relative inc.html %}
 
+{% capture my_include %}{% include_relative inc.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
