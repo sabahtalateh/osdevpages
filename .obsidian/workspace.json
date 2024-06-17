@@ -11,11 +11,9 @@
             "id": "857ad8a27bae9d83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "html-view",
               "state": {
-                "file": "graph.md",
-                "mode": "source",
-                "source": true
+                "file": "graph2.html"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph.md",
+                "file": "graph2.html",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph.md",
+                "file": "graph2.html",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph.md"
+                "file": "graph2.html"
               }
             }
           }
@@ -148,9 +146,9 @@
   },
   "active": "857ad8a27bae9d83",
   "lastOpenFiles": [
+    "graph.md",
     "graph2.html",
     "index.md",
-    "graph.md",
     "index.html"
   ]
 }
