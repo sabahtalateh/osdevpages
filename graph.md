@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
     <title>Markmap</title>
     <style>
@@ -27,5 +24,3 @@
         </script>
     </div>
 </body>
-
-</html>
