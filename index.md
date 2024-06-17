@@ -20,7 +20,7 @@
 ](https://www.youtube.com/playlist?list=PLylNWPMX1lPlmEeeMdbEFQo20eHAJL8hx)
 
 ## Links
-[[graph]]
+[graph](./graph)
 
 
 
