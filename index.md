@@ -1,6 +1,6 @@
 <head>
   <script>
-  {% include js/alert.js %}
+  {% include alert.js %}
   </script>
 </head>
 
