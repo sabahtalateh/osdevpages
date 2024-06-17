@@ -15,7 +15,7 @@
               "state": {
                 "file": "inc.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "46c154768b7e7150",
   "lastOpenFiles": [
-    "graph.md",
+    "index.md",
     "inc.md",
+    "graph.md",
     "inc copy.html",
     "inc.html",
     "graph2.html",
-    "index.md",
     "index.html"
   ]
 }
