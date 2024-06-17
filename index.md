@@ -22,5 +22,5 @@
 ## Links
 [graph](./graph)
 
-{% include_relative inc.md %}
+{% include_relative inc.html %}
 
