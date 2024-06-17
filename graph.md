@@ -13,14 +13,12 @@
 </head>
 
 <body>
+    {% capture inc %}{% include_relative inc.md %}{% endcapture %}
+    {{ inc | markdownify }}
     <div class="markmap">
         <script type="text/template">
-          - markmap
-            - autoloader
-            - transformer
-            - view
-            - 2
-            - 3
+          {% capture inc %}{% include_relative inc.md %}{% endcapture %}
+          {{ inc | markdownify }}
         </script>
     </div>
 </body>
