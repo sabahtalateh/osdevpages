@@ -16,7 +16,8 @@ markmap:
 
 <svg id="markmap" style="width: 800px; height: 800px"></svg>
 
-<script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.15"></script>
+<script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.17"></script>
+<script src="https://cdn.jsdelivr.net/npm/markmap-render@0.17.0/dist/index.min.js"></script>
 <script>
   const { Transformer } = window.markmap;
 
