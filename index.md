@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Hello
 ## World
 ### Hello World!!??
