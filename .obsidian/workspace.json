@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inc.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inc.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inc.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inc.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "46c154768b7e7150",
   "lastOpenFiles": [
-    "index.md",
-    "inc.md",
     "graph.md",
+    "inc.md",
+    "index.md",
     "inc copy.html",
     "inc.html",
     "graph2.html",
